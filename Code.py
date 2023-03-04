@@ -1,9 +1,7 @@
 
 ## importing the dependencies
 import pandas as pd
-
 import seaborn as sns
-
 import numpy as np
 
 from sklearn.cluster import KMeans
